@@ -1,0 +1,32 @@
+# Node.js dependencies
+/node_modules
+
+# Build output
+/.next
+/out
+
+# Production environment
+.vercel
+
+# Logs
+npm-debug.log
+yarn-debug.log
+yarn-error.log
+
+# IDE and editor directories
+.vscode
+.idea
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Optional: Ignoring environment files if using Vercel for deployment (keep them secure)
+.env
+.env.local
+.env.development
+.env.production
+.env.test
+
+# Next.js specific
+.next
